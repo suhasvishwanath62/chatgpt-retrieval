@@ -6,6 +6,9 @@
 ```
 pip install langchain openai chromadb tiktoken unstructured
 ```
+```
+pip install unstructured[pdf]
+``` 
 - Use your own `OpenAI API key` in constants.py.
 - Place your own data into `data/data.txt`
 
