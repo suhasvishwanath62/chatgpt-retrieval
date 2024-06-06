@@ -1,4 +1,4 @@
-# Retrieval-Augmented-Generation `RAG` using `LangChain(LLM), OpenAI, API`
+# chatgpt-retrieval `LangChain,OpenAI,API`
 - Simple script to use ChatGPT on your own files.
 
 # Installation
